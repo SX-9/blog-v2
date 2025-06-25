@@ -21,8 +21,9 @@ params:
   description: howdy
   goToTop: true
   author:
-    name: satr14
-    bio: A hobbyist web developer and home lab sysadmin.
+    name: Satria
+    intro: satr14
+    description: A hobbyist web developer and home lab sysadmin.
   socialIcons:
     - name: RSS
       url: /index.xml
