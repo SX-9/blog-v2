@@ -1,0 +1,28 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.idea/
+.vscode/
+
+# Node modules (if using npm/yarn for assets)
+node_modules/
+
+# Log files
+*.log
+
+# Backup files
+*~
+
+# Hugo environment files
+.env
+.env.*

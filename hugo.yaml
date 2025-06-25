@@ -1,0 +1,36 @@
+baseURL: https://blog.satr14.my.id/
+languageCode: en-us
+title: satr14's blog
+theme: hugo-blog-awesome
+markup:
+  highlight:
+    noClasses: true
+    style: github-dark
+    tabWidth: 4
+menu:
+  main:
+    - name: Projects
+      url: /projects/
+      weight: 10
+    - name: Main
+      url: https://satr14.my.id
+      weight: 20 
+params:
+  sitename: satr14's blog
+  defaultColor: dark
+  description: howdy
+  goToTop: true
+  author:
+    name: satr14
+    bio: A hobbyist web developer and home lab sysadmin.
+  socialIcons:
+    - name: RSS
+      url: /index.xml
+    - name: GITHUB
+      url: https://github.com/SX-9
+    - name: DISCORD
+      url: https://discordapp.com/users/882595027132493864
+    - name: REDDIT
+      url: https://www.reddit.com/user/Frequent_Outside_741/
+    - name: STEAM
+      url: https://steamcommunity.com/id/satr14/
