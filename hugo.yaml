@@ -21,9 +21,9 @@ params:
   description: howdy
   goToTop: true
   author:
-    name: Satria
-    intro: satr14
-    description: A hobbyist web developer and home lab sysadmin.
+    name: satr14
+    intro: Howdy!
+    # description: # idk what to put here so :p
   socialIcons:
     - name: RSS
       url: /index.xml
